@@ -9,6 +9,7 @@
 SSD1306  display(0x3c, D3, D5);
 
 /* Set these to your desired credentials. */
+//Yasu has changed somthing!!
 const char *ssid = "WalkGreenID:1A-FE-34-06-97-08";
 const char *password = "34069708";
 String url = "";
